@@ -14,4 +14,4 @@
 * [Варианты использования (Use Cases)](use-cases.md)
 * [Сущности и ERD-диаграмма](entities-and-erd.md)
 * [Roadmap проекта](roadmap.md)
-* [ERD-диаграмма](assets/erd.svg)
+* [ERD-диаграмма](assets/erd.png)
