@@ -7,7 +7,7 @@
 * **[Чепур Алексей]** —  DevOps / **Backend-разработчик** / Frontend-разработчик
 * **[Губаревич Игорь]** — **Frontend-разработчик** / **UX/UI+Дизайнер**
 
-[Ссылка на проект в Figma](https://www.figma.com/)
+[Ссылка на проект в Figma]([https://www.figma.com/](https://www.figma.com/design/YmwdskpQePYcWLkfqDmh6W/gloss_lab?node-id=1681-249&t=CCXvYYjUyIQESRJr-1))
 
 ## Проектная документация
 * [Концепция и функциональные требования](concept.md)
